@@ -13,5 +13,9 @@ public class MainActivity extends AppCompatActivity {
 
     public MainActivity() {
     }
+
+    protected  void OnStop(){
+
+    }
 }
 
